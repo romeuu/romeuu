@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🔭 Apasionado desarrollador web con 4 años de experiencia creando soluciones digitales.<br>🤝 Mi principal enfoque es la creación de código limpio y seguro.<br>🌱 Mi stack principal es PHP (Laravel/Lumen/Symfony) y Angular.<br>⚡ Actualmente aprendiendo sobre ciberseguridad.
+🔭 Apasionado desarrollador web con 4 años de experiencia creando soluciones digitales.<br>🤝 Mi principal enfoque es la creación de código limpio y seguro.<br>🌱 Mi stack principal es PHP (Laravel/Lumen/Symfony) y Angular.<br>⚡ Como afición, estoy aprendiendo sobre ciberseguridad.
 
 
 ## 🌐 Redes sociales:
